@@ -10,13 +10,13 @@
     },
     "projects": [{
             "title": "Edge Computer Vision",
-            "description": "A multi-purpose computer vision system at the edge for Jade Software. From car counting to people tracking. Python, OpenCV, OpenVINO.",
+            "description": "Using Machine Learning to produce software that runs at the edge, for Jade Software. From car counting to people tracking. Python, OpenCV, OpenVINO.",
             "imageUrl": "thumbnails/small/computervisionthumbnail.jpg",
             "projectUrl": ""
         },
         {
             "title": "Hacking a Coffee Machine",
-            "description": "Enchancing the accessibility of a Coffee Machine to include voice controls, for Jade Software, in NodeJS.",
+            "description": "Enchancing the accessibility of a Coffee Machine to include voice controls, for Jade Software, in NodeJS",
             "imageUrl": "thumbnails/small/coffeemachinethumbnail.jpg",
             "projectUrl": "https://insights.jadeworld.com/blog/we-built-the-worlds-first-digital-barista-but-why"
         },
@@ -27,7 +27,7 @@
             "githubUrl": "https://github.com/ncpleslie/C3Church"
         },
         {
-            "title": "Social Network",
+            "title": "PHP Social Network",
             "description": "Creating a secure social-media/forum in PHP and MySQL",
             "imageUrl": "thumbnails/small/socialmediathumbnail.jpg",
             "githubUrl": "https://github.com/ncpleslie/SocialNetworkPHP/tree/MVC"
