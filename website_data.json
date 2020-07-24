@@ -15,6 +15,13 @@
             "imageUrl": "thumbnails/small/computervisionthumbnail.jpg",
             "projectUrl": ""
         },
+                 {
+            "title": "Edge Computer Vision",
+            "description": "A security camera system with on-device processing to detect, track and log multiple objects. This includes license plates, people and vehicles",
+            "technology": "Python, OpenCV, OpenVINO",
+            "imageUrl": "thumbnails/small/computervisionthumbnail.jpg",
+            "projectUrl": ""
+        },
         {
             "title": "Bella - The Coffee Machine Assistant",
             "description": "Enchancing the accessibility of a Coffee Machine to include voice controls, for Jade Software. Showcased at the Noel Leeming Flagship store",
