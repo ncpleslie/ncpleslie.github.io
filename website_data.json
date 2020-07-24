@@ -1,7 +1,7 @@
 {
     "header": {
         "name": "Nick Leslie",
-        "description": "Software Developer | Fullstack Web Developer | Mobile Developer",
+        "description": "Software Developer | Fullstack Web Developer | Mobile Developer | Test",
         "links": {
             "github": "https://github.com/ncpleslie",
             "linkedIn": "https://www.linkedin.com/in/nicholas-leslie/",
@@ -9,6 +9,13 @@
         }
     },
     "projects": [{
+            "title": "Edge Computer Vision",
+            "description": "A security camera system with on-device processing to detect, track and log multiple objects. This includes license plates, people and vehicles",
+            "technology": "Python, OpenCV, OpenVINO",
+            "imageUrl": "thumbnails/small/computervisionthumbnail.jpg",
+            "projectUrl": ""
+        },
+                 {
             "title": "Edge Computer Vision",
             "description": "A security camera system with on-device processing to detect, track and log multiple objects. This includes license plates, people and vehicles",
             "technology": "Python, OpenCV, OpenVINO",
