@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NickLeslieCV.pdf"
   },
   {
-    "revision": "f02def6625ef77957504",
-    "url": "/css/app.5d9ffcd4.css"
+    "revision": "af8a1ec56f5ce80822fe",
+    "url": "/css/app.6703c230.css"
   },
   {
     "revision": "8a67ce63ebcf76b2ee91",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/screen.25c3d6ae.svg"
   },
   {
-    "revision": "4dcb14047dff5b0519f8bc940969e8f8",
+    "revision": "70d0ecac8b0b832bf28df04a98afcbeb",
     "url": "/index.html"
   },
   {
-    "revision": "f02def6625ef77957504",
-    "url": "/js/app.2d458b5e.js"
+    "revision": "af8a1ec56f5ce80822fe",
+    "url": "/js/app.7fa8910e.js"
   },
   {
     "revision": "8a67ce63ebcf76b2ee91",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b9b9a0ec28b96c0b3e960abac618c35b",
     "url": "/manifest.json"
+  },
+  {
+    "revision": "41769c5b0c1dad29c449fc594dc4f298",
+    "url": "/personal_info.json"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
