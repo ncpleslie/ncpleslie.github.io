@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.76acd0aadb89bdd0d1c4dc39164ed948.js"
+  "/precache-manifest.534532e608cc9c5a2be8ffadac2ff03a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nick-leslie-personal-website"});
